@@ -20,3 +20,4 @@ This Project includes Dialect and Processor.It is similar to previous project of
 * `Step 4`-  If it find any keyword defined in thymeleaf which maches means, it will replace that keyword 
    with object whatever you want to pass and page will be displayed with processor data.
  
+ <img src="https://github.com/Sudarshan-Gowda/Spring-Mvc-Thymeleaf-Dialect-Processor-3.0/blob/master/docs/Picture1.png" width="100%"/>
